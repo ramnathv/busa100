@@ -136,9 +136,13 @@ Which of these 3 T-shirts would you buy? They are all priced at $10. Discuss wit
 Your group is responsible for purchasing and selling these designs at Frosh. Assume that the market  consists of your classmates in this course. Each shirt costs $2 and sells at $10. The total number of shirts is fairly certain (the number of groups), but the mix is uncertain. All unsold shirts are scrapped with no salvage value. The objective is to maximize profits. Discuss with your group and report how many shirts of each design you will order?
 
 <div class='build'>
- <p>Jot down your answer in the following format</p>
- <p style='font-size:40px'><strong>Group, 15, 15, 15</strong></p>
+ <p>Jot down your answer in the following format: Group, #Black, #Blue, #Red</p>
+ <p style='font-size:40px'><strong>OMisCool, 15, 15, 15</strong></p>
 </div>
+
+---
+
+<script language="javascript" src="http://www.polleverywhere.com/polls/MTUwNTUzMDY1MQ/chart_widget.js?height=525&amp;results_count_format=percent&amp;width=975" type="text/javascript"></script>
 
 --- .segue .dark .nobackground
 
