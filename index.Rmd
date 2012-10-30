@@ -93,6 +93,14 @@ The main disadvantage here is is that you are boarding only a small section of t
 
 <img class=center src=assets/img/boarding_times.png height=90% />
 
+---
+
+<iframe width="640" height="480" src="http://www.youtube.com/embed/HX_yN4uyVWs?rel=0" frameborder="0" allowfullscreen></iframe>
+
+---
+
+<iframe width="640" height="480" src="http://www.youtube.com/embed/ps23fc5WpiM?rel=0" frameborder="0" allowfullscreen></iframe>
+
 --- .segue .nobackground .dark
 
 ## Activity
