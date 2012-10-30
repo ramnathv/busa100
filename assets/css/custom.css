@@ -1,0 +1,16 @@
+#bananas {
+  background: url('../img/bananas_in_store.jpg');
+}
+
+#boarding {
+	background: url(http://goo.gl/APQeY)
+}
+
+#zara {
+	background: url(http://goo.gl/hoIX6)
+}
+
+img.center {
+	display: block;
+	margin: auto auto;
+}
